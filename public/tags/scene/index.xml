@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Carl Mullins</title>
+    <link>https://github.com/carl-14/data-science-portfolio/tags/scene/</link>
+    <description>Recent content in scene on Carl Mullins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Dec 2020 20:03:14 -0800</lastBuildDate><atom:link href="https://github.com/carl-14/data-science-portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-1/</link>
+      <pubDate>Wed, 02 Dec 2020 20:03:14 -0800</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-1/</guid>
+      <description>This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project II:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project III:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project IV:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project V:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project VI:</title>
+      <link>https://github.com/carl-14/data-science-portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/carl-14/data-science-portfolio/post/project-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
